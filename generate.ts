@@ -5,11 +5,10 @@ if (!existsSync("dist")) Deno.mkdirSync("dist");
 for (let i = 0; i < 500; i++) {
   const content = JSON.stringify({
     name: `Blench Pass #${i}`,
-    description: "The Choice We Make",
-    image:
-      "ipfs://bafybeid5vttf6ltqw3eo5fnbjwqtzm7vuth3perjqilm4yzlp34y2i4psa/blench-pass.mp4",
+    description: "The Choice We Make ⛩️",
+    image: "ipfs://bafybeicg3xfkaii27beurx3wrfcxyoosbkuelt7nad2f5dez2k6lcssrqm",
     animation_url:
-      "ipfs://bafybeid5vttf6ltqw3eo5fnbjwqtzm7vuth3perjqilm4yzlp34y2i4psa/blench-pass.mp4",
+      "ipfs://bafybeicg3xfkaii27beurx3wrfcxyoosbkuelt7nad2f5dez2k6lcssrqm",
     attributes: [],
   });
 
