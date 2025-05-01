@@ -7,11 +7,11 @@ This repository contains the code used to generate the metadata files of [Blench
 The IPFS URL of [`blench-pass.mp4`](/blench-pass.mp4):
 
 ```txt
-https://bafybeid5vttf6ltqw3eo5fnbjwqtzm7vuth3perjqilm4yzlp34y2i4psa.ipfs.w3s.link/blench-pass.mp4
+https://ipfs.io/ipfs/bafybeicg3xfkaii27beurx3wrfcxyoosbkuelt7nad2f5dez2k6lcssrqm
 ```
 
 The IPFS URL of metadata files from 0 to 499:
 
 ```txt
-https://bafybeifex5igsmpcdywnwcguyzffjtqd4d3anl2z37ygysgbmquwqjur5e.ipfs.w3s.link/0
+https://ipfs.io/ipfs/bafybeigd7zii34xj7ug3x6x5h76uj2fdqn6exgw2ptxrdqdsn5lnz3jmw4/0
 ```
